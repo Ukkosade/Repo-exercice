@@ -1,9 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: HB
- * Date: 08/11/2018
- * Time: 16:26
+ * autoload pour charger toutes les classes automatiquement
  */
 
 function autoLoad ($classe)

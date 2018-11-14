@@ -1,10 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: HB
- * Date: 31/10/2018
- * Time: 15:46
-
+ * fichier de config pdo
  *
  */
 
